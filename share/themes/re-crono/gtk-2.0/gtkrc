@@ -23,7 +23,7 @@ gtk-icon-sizes = "gtk-button=16,16" # This makes button icons smaller.
 gtk-button-images	= 1 # Enables icons in buttons
 gtk-toolbar-style	= 0 # Disables text in toolbar
 gtk-auto-mnemonics	= 1 # Disables ugly lines under menu items
-gtk-font-name       = "Trebuchet MS 10"
+gtk-font-name       = "Segoe UI 9"
 
 ### GENERAL THEME SETTINGS ###
 style "murrine-default"
